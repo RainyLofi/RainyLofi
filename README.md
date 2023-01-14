@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @RainyLofi
-- 👀 I’m interested in Roblox game development (specifically programming).
-- 🌱 I’m currently learning software engineering.
+- 👀 Programmer @ Blueprint
 - 💻 My roblox profile: https://www.roblox.com/users/248428063/profile
-- 🎮 Extreme Sword Fighting: https://www.roblox.com/games/6773968330/ESF-Extreme-Sword-Fighting-BETA
 - 📫 How to reach me: RainyLofi#0001 on Discord.
 
 <!---
